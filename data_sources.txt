@@ -1,0 +1,5 @@
+Median income data: https://www.cnbc.com/2024/04/14/median-annual-income-in-every-us-state.html
+Unemployment data: https://www.bls.gov/web/laus/laumstrk.htm
+Banned carry source: https://www.statista.com/statistics/1381099/us-gun-laws-by-state/
+Poverty rates source: https://www.americanjournalofsurgery.com/article/S0002-9610(23)00131-9/fulltext
+Source for Gini index: https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_income_inequality
