@@ -1,0 +1,52 @@
+state,median_income,poverty_rate,state_abbr,region,gini,gun_law_strength_ranking,unemployment_rate
+Alabama,41350,14.9,AL,Southeast,0.4741,37.0,2.9
+Alaska,56140,9.6,AK,Northwest,0.4376,42.0,4.6
+Arizona,47680,12.8,AZ,Southwest,0.4591,45.0,3.5
+Arkansas,39060,15.2,AR,Southeast,0.475,39.0,3.3
+California,54030,11.5,CA,Northwest,0.4866,1.0,5.3
+Colorado,54050,9.0,CO,Northwest,0.4548,15.0,4.0
+Connecticut,56130,9.7,CT,Northeast,0.5024,3.0,3.2
+Delaware,49280,10.9,DE,Southeast,0.4509,11.0,4.2
+Florida,45070,12.4,FL,Southeast,0.4808,24.0,3.3
+Georgia,45480,14.0,GA,Southeast,0.4795,32.0,3.6
+Hawaii,50510,8.9,HI,Northwest,0.4397,4.0,2.9
+Idaho,44240,10.1,ID,Northwest,0.4337,48.0,3.6
+Illinois,48730,11.0,IL,Midwest,0.48,8.0,5.3
+Indiana,45470,11.6,IN,Midwest,0.4584,27.0,4.3
+Iowa,46460,10.2,IA,Midwest,0.4422,20.0,2.9
+Kansas,45250,10.6,KS,Midwest,0.45,43.0,3.3
+Kentucky,43730,14.9,KY,Southeast,0.4764,46.0,4.9
+Louisiana,41320,17.8,LA,Southeast,0.4978,33.0,3.9
+Maine,47590,10.6,ME,Northeast,0.449,33.0,2.8
+Maryland,55810,9.0,MD,Southeast,0.4558,6.0,2.9
+Massachusetts,60690,9.4,MA,Northeast,0.4803,7.0,3.8
+Michigan,46940,12.6,MI,Midwest,0.4634,20.0,4.5
+Minnesota,50880,8.3,MN,Midwest,0.4434,14.0,3.4
+Mississippi,37500,18.7,MS,Southeast,0.4896,50.0,2.8
+Missouri,45080,12.1,MO,Midwest,0.4633,46.0,3.9
+Montana,45690,12.4,MT,Northwest,0.4597,33.0,3.3
+Nebraska,46440,9.2,NE,Midwest,0.44,19.0,2.7
+Nevada,44810,12.5,NV,Northwest,0.471,16.0,5.6
+New Hampshire,49980,7.0,NH,Northeast,0.4406,30.0,2.5
+New Jersey,54860,9.4,NJ,Northeast,0.4782,2.0,4.7
+New Mexico,43620,16.8,NM,Southwest,0.4768,18.0,4.2
+New York,56840,12.7,NY,Northeast,0.5149,5.0,4.4
+North Carolina,45440,12.9,NC,Southeast,0.4743,25.0,3.8
+North Dakota,48830,10.2,ND,Midwest,0.4558,38.0,2.3
+Ohio,46690,12.6,OH,Midwest,0.4651,25.0,4.5
+Oklahoma,41480,14.3,OK,Southwest,0.4739,39.0,3.4
+Oregon,50010,11.0,OR,Northwest,0.45,16.0,4.0
+Pennsylvania,47430,10.9,PA,Northeast,0.4745,13.0,3.4
+Rhode Island,50970,10.6,RI,Northeast,0.4628,9.0,4.6
+South Carolina,42220,13.8,SC,Southeast,0.4747,31.0,4.5
+South Dakota,43680,11.6,SD,Midwest,0.436,44.0,2.0
+Tennessee,43820,13.6,TN,Southeast,0.4749,29.0,3.2
+Texas,45970,13.4,TX,Southwest,0.4753,33.0,4.1
+Utah,47020,7.3,UT,Northwest,0.4268,28.0,3.5
+Vermont,49630,9.4,VT,Northeast,0.4471,23.0,2.2
+Virginia,49920,9.2,VA,Southeast,0.469,12.0,2.9
+Washington,59920,9.5,WA,Northwest,0.4577,10.0,4.8
+West Virginia,39770,15.8,WV,Southeast,0.4644,41.0,4.2
+Wisconsin,47590,10.0,WI,Midwest,0.4391,22.0,2.9
+Wyoming,47250,9.2,WY,Northwest,0.4345,48.0,3.1
+District of Columbia,65786,13.3,DC,Southeast,0.5115,,5.7
