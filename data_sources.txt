@@ -5,3 +5,5 @@ Poverty rates source: https://www.americanjournalofsurgery.com/article/S0002-961
 Source for Gini index: https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_income_inequality
 
 States by regions: https://www.studentsofhistory.com/regions-of-united-states
+
+US elections data: https://www.kaggle.com/datasets/tunguz/us-elections-dataset?resource=download
