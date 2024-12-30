@@ -11,6 +11,6 @@ st.set_page_config(
 
 st.title('Analysis of the evolution of the Mass Shootings in the U.S. across its different areas')
 
-final_vis_path = 'final_vis.html'
+final_vis = open('final_vis.html', 'r').read()
 
-st.components.v1.html(open(final_vis_path, 'r').read(), height=800, scrolling=True)
+st.components.v1.html(final_vis, width=1500, height=820, scrolling=True)
