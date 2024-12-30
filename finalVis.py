@@ -1,7 +1,4 @@
-import altair as alt
 import streamlit as st
-import json
-import pickle
 
 
 st.set_page_config(
@@ -12,9 +9,8 @@ st.set_page_config(
     menu_items={"About": """*Authors*:  Joel Sole and Nathaniel Mitrani\n"""}
 )
 
-with open('final_vis.pkl', 'rb') as f:
-    final_vis = pickle.load(f)
-
 st.title('Analysis of the evolution of the Mass Shootings in the U.S. across its different areas')
 
-st.altair_chart(final_vis, use_container_width=True)
+final_vis_path = 'final_vis.html'
+
+st.components.v1.html(open(final_vis_path, 'r').read(), height=800, scrolling=True)
